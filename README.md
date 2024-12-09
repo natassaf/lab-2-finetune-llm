@@ -4,7 +4,8 @@ Athanasia Farmaki, farmaki@kth.se
 Michail Roussos, michailr@kth.se
 
 Deliverables description:
-Training colab notebook: Llama_3_2_1B+3B_Conversational_+_2x_faster_finetuning
+Training colab notebook selected: Llama_3_2_1B+3B_Conversational_+_2x_faster_finetuning
+Training colab notebook not selected: Llama_3_2_1B_bnb_4bit_+_2x_faster_finetuning.ipynb
 Inference notebook for testing the models: ID2223_inf.ipynb
 Gradio app script: https://huggingface.co/spaces/michailroussos/ID2223_9D_withGPU/tree/main
 
